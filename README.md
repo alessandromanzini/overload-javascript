@@ -8,7 +8,7 @@
 			"string": (myString)=> {
 				console.log("I have a string parameter: " + myString)
 			},
-			"string": (myNum)=> {
+			"number": (myNum)=> {
 				console.log("I have a number parameter: " + myNum)
 			},
 			"string_Object": (myString, myObj)=> {
