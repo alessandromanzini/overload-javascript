@@ -22,3 +22,5 @@
 		}
 	}
 	(new Example()).funzione();
+
+If you want to use a determined object remember to always capitalize the parameter type (ex: "Array","MyObject")
